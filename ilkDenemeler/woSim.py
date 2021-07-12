@@ -15,14 +15,14 @@ WIDTH = float(100)
 #CARTESİAN COORDINATE
 
 #Particle_1
-x1=1
-y1=1
+x1=33
+y1=11
 xvel1=2
 yvel1=2
 
 #Particle_2
-x2=30
-y2=30
+x2=83
+y2=79
 xvel2=-1
 yvel2=-1
 
